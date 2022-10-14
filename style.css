@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    height: 300px;
+    width: 500px;
+    margin: auto;
+    background-color: lightsalmon;
+}
+.inpBtn{
+    height: 43px;
+    width: 350px;
+}
+.Btn{
+    font-weight: 950;
+    height: 40px;
+    width: 115px;
+    border-radius: 20px ;
+    cursor: pointer;
+
+}
